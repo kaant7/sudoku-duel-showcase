@@ -54,5 +54,5 @@ The core multiplayer experience relies on **Supabase Realtime**.
 **Kaan Efe Taş**
 
 *Computer Engineering Student @ İstanbul Bilgi University*
-* [LinkedIn]([BURAYA_LINKEDIN_PROFIL_LINKIN])
-* [GitHub](https://github.com/[KULLANICI_ADIN])
+* [LinkedIn](https://www.linkedin.com/in/kaan-efe-tas/)
+* [GitHub](https://github.com/kaant7)
