@@ -3,9 +3,9 @@
 [![App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)]([BURAYA_APP_STORE_LINKIN_GELECEK])
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey?style=for-the-badge)](#)
 
-> **Sudoku, but competitive.** > Sudoku Duel turns the classic logic puzzle into a fast, real-time multiplayer challenge. Face off against friends, solve the same Sudoku grid simultaneously, and win by thinking faster and making fewer mistakes.
+**Sudoku, but competitive.**  Sudoku Duel turns the classic logic puzzle into a fast, real-time multiplayer challenge. Face off against friends, solve the same Sudoku grid simultaneously, and win by thinking faster and making fewer mistakes.
 
-*Note: This repository serves as a showcase and architecture overview. The source code is not public.*
+> **Note: This repository serves as a showcase and architecture overview. The source code is not public.*
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 This project was built using a modern web-to-native architecture to ensure high performance and seamless real-time syncing:
 
@@ -30,7 +30,7 @@ This project was built using a modern web-to-native architecture to ensure high 
 
 ---
 
-## 🎮 Key Features
+## Key Features
 
 * **Real-Time Battles:** Play head-to-head Sudoku matches with people you know using unique room codes.
 * **Skill-Based Engine:** Both players receive identical, procedurally generated puzzles. No luck, just pure logic and speed.
@@ -52,5 +52,7 @@ The core multiplayer experience relies on **Supabase Realtime**.
 ## 👨‍💻 Developer
 
 **Kaan Efe Taş**
+
+*Computer Engineering Student @ İstanbul Bilgi University*
 * [LinkedIn]([BURAYA_LINKEDIN_PROFIL_LINKIN])
 * [GitHub](https://github.com/[KULLANICI_ADIN])
