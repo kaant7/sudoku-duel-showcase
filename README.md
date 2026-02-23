@@ -12,9 +12,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="[BURAYA_EKRAN_GORUNTUSU_LINKI_1]" width="250" alt="Home Screen">
-  <img src="[BURAYA_EKRAN_GORUNTUSU_LINKI_2]" width="250" alt="Multiplayer Gameplay">
-  <img src="[BURAYA_EKRAN_GORUNTUSU_LINKI_3]" width="250" alt="Victory Screen">
+  <img src="https://github.com/user-attachments/assets/6d356879-974c-4875-98ae-735752a90425" width="200" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/c1133c79-f9b2-497a-bae8-e52d13cb218e" width="200" alt="Singleplayer Gameplay">
+  <img src="https://github.com/user-attachments/assets/1e8906e1-086c-42f8-8f2f-8ce65cfb12bd" width="200" alt="Versus Screen">
+  <img src="https://github.com/user-attachments/assets/3a223234-e23f-4fb3-8ddb-5db98137640b" width="200" alt="Multiplayer Gameplay">
 </div>
 
 ---
@@ -53,6 +54,6 @@ The core multiplayer experience relies on **Supabase Realtime**.
 
 **Kaan Efe Taş**
 
-*Computer Engineering Student @ İstanbul Bilgi University*
+*Computer Engineering Student @ Istanbul Bilgi University*
 * [LinkedIn](https://www.linkedin.com/in/kaan-efe-tas/)
 * [GitHub](https://github.com/kaant7)
