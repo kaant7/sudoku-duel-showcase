@@ -1,6 +1,6 @@
 # ⚔️ Sudoku Duel
 
-[![App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)]([BURAYA_APP_STORE_LINKIN_GELECEK])
+[![App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/tr/app/sudoku-duel-online-sudoku/id6759050815?l=tr)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey?style=for-the-badge)](#)
 
 **Sudoku, but competitive.**  Sudoku Duel turns the classic logic puzzle into a fast, real-time multiplayer challenge. Face off against friends, solve the same Sudoku grid simultaneously, and win by thinking faster and making fewer mistakes.
